@@ -1,0 +1,16 @@
+blog-website/
+│
+├── css/
+│   └── styles.css
+│
+├── images/
+│   └── logo.png
+│
+├── js/
+│   └── script.js
+│
+├── about.html
+├── blog.html
+├── contact.html
+├── index.html
+└── README.md
